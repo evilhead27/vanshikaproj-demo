@@ -1,4 +1,4 @@
 # vanshikaproj-demo
 This is my first Git Repository.
 <br>
-Author - Vanshika Gupta
+Author - Vanshika Gupta (proj)
